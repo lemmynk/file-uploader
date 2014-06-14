@@ -1,0 +1,102 @@
+div.up {
+    width:100%;
+}
+td input.up-rename{
+    display: block !important;
+    height: 1.1em !important;
+    margin-bottom: 0 !important;
+}
+div.up input {
+    display: none;
+}
+
+.table th {
+    border-top: none !important;
+}
+
+img.preview {
+    margin: auto;
+}
+
+/*.up-drop-target {
+    height:10em; border:5px dashed #ccc; border-radius:5px;
+    margin-bottom:1em; text-align:center;
+}/**/
+
+/*.up-selected a {
+    font-weight:bold; text-decoration:none;
+}*/
+
+.ui-widget-header{
+    border: none !important;
+}
+
+.ui-progressbar .ui-progressbar-value{
+    margin: 0 !important;
+}
+.up-table-head {
+    font-weight:bold;
+}
+.up-remove-all {
+
+}
+.up-remove, .up-complete {
+    margin-left: 35%;
+}
+.up-progress-wait, .up-progress-completed {
+    height:1.1em;
+    /*width:100px;/**/
+    position:relative;
+    /*top:4px;*/
+}
+.up-progress-label {
+    position: absolute;
+    left: 30%;
+    top: -2px;
+    text-shadow: 1px 1px 0 #fff;
+    font-size: 12px !important;
+}
+
+.alert .close {
+    line-height: 20px;
+    position: relative;
+    right: -21px;
+    top: -2px;
+}
+.close {
+    color: #000000;
+    float: right;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    opacity: 0.2;
+    text-shadow: 0 1px 0 #FFFFFF;
+}
+
+.icon {
+    background:url(../images/page_white.png) no-repeat 50% 50%;
+}
+.doc, .docx {
+    background:url(../images/page_white_word.png) no-repeat 50% 50%;
+}
+.exe {
+    background:url(../images/page_white_gear.png) no-repeat 50% 50%;
+}
+.html {
+    background:url(../images/page_white_code.png) no-repeat 50% 50%;
+}
+.pdf {
+    background:url(../images/page_white_acrobat.png) no-repeat 50% 50%;
+}
+.png, .jpg, .gif {
+    background:url(../images/page_white_picture.png) no-repeat 50% 50%;
+}
+.ppt, .pptx {
+    background:url(../images/page_white_powerpoint.png) no-repeat 50% 50%;
+}
+.txt {
+    background:url(../images/page_white_text.png) no-repeat 50% 50%;
+}
+.zip {
+    background:url(../images/page_white_zip.png) no-repeat 50% 50%;
+}
